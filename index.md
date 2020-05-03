@@ -13,7 +13,7 @@
 <div class="row">
 
 
-<div class="container col-lg-4 col-md-6 col-sm-12">
+<div class="sec col-lg-4 col-md-6 col-sm-12">
 <section>
     <div id="chicken"> chicken </div>
 	<p>
@@ -23,7 +23,7 @@
 </div>
 
 
-<div class="container col-lg-4 col-md-6 col-sm-12">
+<div class="sec col-lg-4 col-md-6 col-sm-12">
 	<section>
 		<div id="beef"> Beef </div>
 		<p>
@@ -33,7 +33,7 @@
 </div>
 
 
-<div class="conatiner col-lg-4 col-md-6 col-sm-12">
+<div class="sec col-lg-4 col-md-6 col-sm-12">
 	<section>
 		<div id="sushi"> Sushi </div>
 		<p>
